@@ -1,4 +1,4 @@
-# Flex Panel Gallery
+# [Flex Panel Gallery](https://gk-hynes.github.io/flex-panel-gallery/)
 
 An image gallery built to practice Flexbox and vanilla JavaScript. Built for Wes Bos' [JavaScript 30](https://javascript30.com/) course.
 
